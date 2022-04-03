@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649023270 source:d:\unlam\progra2022\tp1\ej16\fechamenondias\main.c
+	"header.h"
+
+1649023242 d:\unlam\progra2022\tp1\ej16\fechamenondias\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1649023497 source:d:\unlam\progra2022\tp1\ej16\fechamenondias\funciones.c
+	"header.h"
+
